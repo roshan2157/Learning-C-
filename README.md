@@ -1,2 +1,3 @@
-# Learning-C-
-i am lerning C++ , going to upload all my file here.
+# Learning-C++
+i am learning C++ after learning the C language , and i am going to upload all my files here on this repo.
+
